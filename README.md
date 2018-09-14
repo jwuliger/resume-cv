@@ -1,3 +1,6 @@
 # Jared Wuliger - Latest Resume/CV
 
-Using GitHub for my resume's version control.
+## Repo for resume version control
+
+- MS Word (.docx) Version
+- Adobe PDF Version
