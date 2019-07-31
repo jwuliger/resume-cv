@@ -1,6 +1,5 @@
 # Jared Wuliger - Latest Resume/CV
 
-## Repo for resume version control
+## Version Control for my Resume :)
 
-- MS Word (.docx) Version
-- Adobe PDF Version
+- MS Word (.doc) Version
